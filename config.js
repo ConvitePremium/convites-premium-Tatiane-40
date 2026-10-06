@@ -92,7 +92,7 @@ window.CONFIG = {
   botoesVoltar: {
     presentes: { mostrarTexto:false, posicao: {"left":30.538670626996804,"top":85.09597586758461,"width":38.64217252396166,"height":4.808057044341004} },
     dresscode: { mostrarTexto:false, posicao: {"left":30.281469648562297,"top":86.65535606752393,"width":37.78914674021565,"height":4.504034009364401} },
-    manual: { mostrarTexto:false, posicao: {"left":29.872514601637377,"top":86.42519901174322,"width":39.629389851238024,"height":4.734189967706328} }
+    manual: { mostrarTexto:false, posicao: {"left":29.872514601637377,"top":79.52071121583312,"width":40.24281462160543,"height":5.8849379336913445} }
   },
 
   // ----- POSIÇÃO DOS BOTÕES NA TELA PRINCIPAL ----------------------------
@@ -108,6 +108,7 @@ window.CONFIG = {
         manual: { left:42.12839018758004, top:74.14909853746545, width:16.29551467651757, height:8.528402317264716 },
         chacara: { left:67.0591054313099, top:73.9608783267869, width:15.977635782747605, height:8.76582100668147 }
   },
+   
   // ----- CONTAGEM REGRESSIVA ---------------------------------------------
   // Formato da data: ANO-MÊS-DIAT HORA:MINUTO:SEGUNDO (sem espaço antes do T).
   // Exemplo: "2026-10-03T16:00:00"
